@@ -14,6 +14,6 @@
 # Performance Metrics used
  **Mean_absolte error and r2_score**
  
-# Algorithm with highest accuracy 
+# Algorithm that given highest accuracy (for this problem statement)
  **Gradient Boosting Algorithm**
 
